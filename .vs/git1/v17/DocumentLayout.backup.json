@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\cpp\\git1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Git\\135\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005904AA-F5C9-4EC7-8D6B-21040381A976}|git1\\git1.vcxproj|D:\\Git\\135\\git1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{005904AA-F5C9-4EC7-8D6B-21040381A976}|git1\\git1.vcxproj|solutionrelative:git1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\Git\\135\\git1\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "git1\\\u6E90.cpp",
+              "ToolTip": "D:\\Git\\135\\git1\\\u6E90.cpp",
+              "RelativeToolTip": "git1\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T12:57:41.321Z",
+              "EditorCaption": ""
             }
           ]
         }
