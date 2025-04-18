@@ -9,5 +9,6 @@ int main()
 	cout<<"ssda"<<endl;
 	cout<<"jsdka"<<endl;
 	cout << "ganjue" << endl;
+	cout<< "sdad"<<endl;
 	return 0;
 }
