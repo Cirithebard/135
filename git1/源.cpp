@@ -8,5 +8,6 @@ int main()
 	cout << "shabi git" << endl;
 	cout<<"ssda"<<endl;
 	cout<<"jsdka"<<endl;
+	cout << "ganjue" << endl;
 	return 0;
 }
